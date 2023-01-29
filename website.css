@@ -1,0 +1,74 @@
+       #im{
+         top:0;
+         left: 0;
+            position: absolute;
+        }
+        #ema{
+           background-color: #4e4b4b;
+            color: white;
+            font-size: 20px;
+            text-align: center;
+            border-radius: 50px;
+            padding: 10px;
+            width: 350px;
+            height: 50px;
+            top:450;
+            left: 750;
+            opacity: 80%;
+            position: fixed;
+        }
+         #pass{
+           background-color: #4e4b4b;
+            color: white;
+            font-size: 20px;
+            text-align: center;
+            border-radius: 50px;
+            padding: 10px;
+            width: 350px;
+            height: 50px;
+            top:550;
+            left: 750;
+            opacity: 80%;
+            position: fixed;
+        }
+         #check{
+             width: 50px;
+            height: 40px;
+             top:650;
+             left: 750;
+             opacity: 70%;
+             position: fixed;
+        }
+         #text{
+             color:#4e4b4b;
+             font-size: 30px;
+             top:655;
+             left: 810;
+           
+             position: fixed;
+            
+        }
+        #butt{
+           
+           background-color: teal;
+            color: white;
+            text-decoration: none;
+            font-size: 30px;
+            text-align: center;
+            border-radius: 50px;
+            width: 350px;
+            height: 40px;
+            top:755;
+             left: 750;
+             position: fixed;
+      }
+        #sign{
+             color: white;
+        text-decoration: none;
+            font-size: 35px;
+             top:845;
+             left: 860;
+            position: fixed;
+        }
+   
+
